@@ -1,6 +1,6 @@
-#marvel-parallax-scrolling
+# marvel-parallax-scrolling
 
-
+![Image](https://github.com/user-attachments/assets/24f69220-8f43-4b63-9fc2-7a7b2264cb0e)
 
 
 - Developed by hiva dargazani
